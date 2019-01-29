@@ -1,0 +1,16 @@
+Killing process: pid= Proc::ProcessTable::Process=HASH(0x25c4e40)->pid,  uid=, Proc::ProcessTable::Process=HASH(0x25c4e40)->uid,  rss=, Proc::ProcessTable::Process=HASH(0x25c4e40)->rss,  fname=, Proc::ProcessTable::Process=HASH(0x25c4e40)->fname,  cmndline=, python test1.py, 
+
+Killing process: pid= 80867,  uid=, 1006,  rss=, 76084224000,  fname=, python,  cmndline=, python test1.py, 
+
+2019-01-23T18:27:49
+Killing process: pid= 20898,  uid=, 1004,  rss=, 71131996160,  fname=, ipython,  cmndline=, /home/oytun/python/envs/tf1_12/bin/python /home/oytun/python/envs/tf1_12/bin/ipython, 
+
+2019-01-23T18:34:04
+Killing process: pid= 53760,  uid=, 1004,  rss=, 72658980864,  fname=, ipython,  cmndline=, /home/oytun/python/envs/tf1_12/bin/python /home/oytun/python/envs/tf1_12/bin/ipython, 
+
+2019-01-23T23:51:24
+Killing process: pid= 23507,  uid=, 1006,  rss=, 70599581696,  fname=, python,  cmndline=, python test1.py, 
+
+2019-01-23T23:56:13
+Killing process: pid= 40180,  uid=, 1006,  rss=, 75232350208,  fname=, python,  cmndline=, python test1.py, 
+
